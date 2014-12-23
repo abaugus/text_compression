@@ -1,7 +1,7 @@
 Text_Compression
 ================
 
-Impelmented Huffman algorithm for text compression in python. Achieved text compressiblity of 60% .
+Implemented Huffman algorithm for text compression in python. Achieved text compressiblity of 60% .
 
 
 Huffman Data Compression
